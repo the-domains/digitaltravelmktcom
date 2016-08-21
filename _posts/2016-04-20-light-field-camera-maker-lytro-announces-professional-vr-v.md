@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T12:48:32.459Z'
+datePublished: '2016-08-21T12:59:42.613Z'
 sourcePath: >-
   _posts/2016-04-20-light-field-camera-maker-lytro-announces-professional-vr-v.md
 inFeed: true
@@ -20,7 +20,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-21T12:48:31.997Z'
+dateModified: '2016-08-21T12:59:40.885Z'
 title: Austin un nuevo destino
 app_links: []
 publisher: {}
@@ -34,8 +34,7 @@ _type: MediaObject
 ---
 # Austin un nuevo destino
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6492481-2eda-46e9-b89e-a42622112e9e.jpg)
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg" /><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a30804a6-1061-4f20-9214-c3cf591c3ba3.jpg)
 
 www.digitaltravelmkt.com
 
